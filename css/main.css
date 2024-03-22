@@ -1,0 +1,21 @@
+ /* basic */
+ @import url(basic/basic.css);
+
+ /* components */
+ @import url(component/p.css);
+ @import url(component/btn.css);
+ @import url(component/text.css);
+
+ /* pages */
+@import url(pages/home.css);
+
+
+/* layout */
+@import url(layout/header.css);
+@import url(layout/footer.css);
+
+/* vendor*/
+ @import url(vendor/vendor.css);
+
+ /* responsive*/
+ @import url(responsive/reesponsive.css);

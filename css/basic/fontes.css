@@ -1,0 +1,14 @@
+@font-face {
+    font-family: r;
+    src: url(../../fonts/IBM_Plex_Sans/IBMPlexSans-SemiBold.ttf);
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: g;
+    src: url(../../fonts/IBM_Plex_Sans/IBMPlexSans-Regular.ttf);
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}

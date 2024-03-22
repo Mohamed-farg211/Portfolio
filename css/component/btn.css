@@ -1,0 +1,35 @@
+ .butn .btn-fa {
+     padding: 15px 35px;
+     background: linear-gradient(90deg, #af2676 0%, #441b45 100%), #fff;
+     border-radius: 0;
+     border: none;
+     background-size: 100% 100%;
+     color: #fff;
+     transition: all 0.5s;
+ }
+
+ .butn .btn-fa:hover {
+     background-size: 200% 100%;
+ }
+
+ .butn .btn-fa i {
+     margin-left: 10px;
+ }
+
+ .butn .btn-fa {
+     padding: 15px 35px;
+     background: linear-gradient(90deg, #af2676 0%, #441b45 100%), #fff;
+     border-radius: 0;
+     border: none;
+     background-size: 100% 100%;
+     color: #fff;
+     transition: all 0.5s;
+ }
+
+ .butn .btn-fa:hover {
+     background-size: 200% 100%;
+ }
+
+ .butn .btn-fa i {
+     margin-left: 10px;
+ }

@@ -1,0 +1,10 @@
+.pa {
+    font-size: 32px;
+    margin-bottom: 40px;
+    font-weight: 300;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.pa .vp {
+    font-weight: 800;
+}

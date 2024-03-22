@@ -1,0 +1,17 @@
+.text-box4 {
+    margin-bottom: 65px;
+}
+
+.text-box4 h6 {
+    margin-bottom: 10px;
+    font-size: 18px;
+    font-weight: 600;
+    font-style: italic;
+}
+
+.text-box4 h2 {
+    text-transform: uppercase;
+    font-size: 48px;
+    font-weight: 700;
+    font-family: r;
+}

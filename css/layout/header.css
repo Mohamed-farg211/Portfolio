@@ -1,0 +1,113 @@
+/* header */
+.f-nav {
+    background-color: #0d0b1c;
+    width: 285px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    top: 0;
+    z-index: 11;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.head .thead {
+    padding: 50px 30px 30px;
+
+}
+
+.head .thead .imgcard-head img {
+    max-width: 50%;
+}
+
+.head .list {
+    padding: 40px 0px 0px;
+}
+
+.head .list .child {
+    display: block;
+    margin-top: 20px;
+}
+
+.head .list .child a {
+    font-size: 18px;
+    font-family: g;
+    font-weight: 500;
+    padding: 10px 30px;
+    text-transform: uppercase;
+    font-family: r;
+}
+
+.f-nav .icons {
+    padding: 30px;
+}
+
+/* .f-nav .cary {
+    height: 100%;
+} */
+
+.f-nav .icons  li {
+    margin-right: 5px;
+}
+
+.f-nav .icons li a {
+    width: 40px;
+    height: 40px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    color: #000;
+    background-color: #fff;
+    border-radius: 50%;
+    transition: all .35s ease;
+}
+
+.f-nav .icons  li a:hover {
+    color: #fff;
+    background-color: #d63384;
+}
+
+
+/* header */
+
+
+
+
+
+
+#dark {
+    position: relative;
+    background-color: #fff;
+    width: 46px;
+    height: 24px;
+    border-radius: 10px;
+    border: 1px solid #000;
+    display: inline-block;
+}
+
+#dark::after {
+    position: absolute;
+    content: "";
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: #868688;
+    left: 1px;
+    top: 1px;
+}
+
+#dark.active::after {
+    left: 23px;
+}
+
+
+
+.bode.active{
+    background-color: #fff;
+}
+
+
+#x{
+    background-color: #09c;
+}
